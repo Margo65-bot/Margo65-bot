@@ -42,7 +42,6 @@ Apache Kafka (основы, продюсеры/консьюмеры, Avro)
 | **ExploreWithMe** | Java, Spring Boot/Cloud, Kafka, PostgreSQL, Docker, gRPC, Resilience4j | Микросервисная платформа для поиска компаньонов на мероприятия. 6 сервисов, API Gateway (Spring Cloud Gateway), Eureka Discovery, межсервисное взаимодействие через OpenFeign и gRPC, сбор статистики через Kafka, паттерны отказоустойчивости Resilience4j, контейнеризация в Docker Compose. |
 | **ShareIt** | Java 21, Spring Boot, Hibernate/JPA, PostgreSQL, Docker, Maven | Сервис для аренды вещей. Микросервисная архитектура (gateway + server), валидация на gateway, REST API для бронирований и запросов, Hibernate/JPA, Docker-окружение. |
 | **Filmorate** | Java 21, Spring Boot, Spring JDBC, H2, Lombok | Социальная сеть для оценки фильмов. REST API, CRUD для фильмов и пользователей, лайки и топ фильмов, дружба и общие друзья, валидация, централизованная обработка ошибок, SQL-инициализация H2. |
-| **Канбан-доска** | Java Core, JUnit 5, Gson, HTTP Server | Трекер задач. Иерархия классов (эпики, подзадачи), три стратегии хранения (память/файл/сервер), HTTP-сервер и REST API, сериализация JSON (Gson), модульные тесты JUnit 5. |
 
 ---
 
