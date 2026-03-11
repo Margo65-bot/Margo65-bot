@@ -1,16 +1,68 @@
-## Hi there 👋
+# Привет! Меня зовут Марго
+### Java-разработчик | Бэкенд | Микросервисы
 
-<!--
-**Margo65-bot/Margo65-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я начинающий Java-разработчик с опытом создания полноценных бэкенд-проектов — от консольных приложений до микросервисной архитектуры. В процессе обучения в Яндекс Практикуме прошла путь от основ Java до проектирования распределенных систем, и теперь готова применять свои знания в коммерческой разработке.
 
-Here are some ideas to get you started:
+**Ищу команду**, в которой смогу профессионально расти, получать обратную связь и вместе с коллегами создавать качественные продукты.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Технический стек
+
+**Языки и Core:**
+Java 21, Java Core
+
+**Фреймворки и библиотеки:**
+Spring Boot 3, Spring MVC, Spring JDBC, Spring Cloud (Eureka, Config, OpenFeign), Hibernate, JPA, Resilience4j, Lombok, Gson, Logbook
+
+**Базы данных:**
+PostgreSQL, H2, SQL (CRUD, JOIN, агрегатные функции), JDBC
+
+**Инструменты:**
+Maven, Git (GitHub), Docker, Docker Compose, Postman, Insomnia, IntelliJ IDEA
+
+**Тестирование:**
+JUnit 5, модульное тестирование, классы эквивалентности, граничные значения
+
+**Протоколы и форматы:**
+REST API, HTTP, JSON, gRPC (базовый уровень)
+
+**Брокеры сообщений:**
+Apache Kafka (основы, продюсеры/консьюмеры, Avro)
+
+**Архитектура:**
+Микросервисы, клиент-сервер, ООП, паттерны проектирования
+
+---
+
+## 📌 Проекты
+
+| Проект | Стек | Краткое описание |
+|--------|------|-------------------|
+| **ExploreWithMe** | Java, Spring Boot/Cloud, Kafka, PostgreSQL, Docker, gRPC, Resilience4j | Микросервисная платформа для поиска компаньонов на мероприятия. 6 сервисов, API Gateway (Spring Cloud Gateway), Eureka Discovery, межсервисное взаимодействие через OpenFeign и gRPC, сбор статистики через Kafka, паттерны отказоустойчивости Resilience4j, контейнеризация в Docker Compose. |
+| **ShareIt** | Java 21, Spring Boot, Hibernate/JPA, PostgreSQL, Docker, Maven | Сервис для аренды вещей. Микросервисная архитектура (gateway + server), валидация на gateway, REST API для бронирований и запросов, Hibernate/JPA, Docker-окружение. |
+| **Filmorate** | Java 21, Spring Boot, Spring JDBC, H2, Lombok | Социальная сеть для оценки фильмов. REST API, CRUD для фильмов и пользователей, лайки и топ фильмов, дружба и общие друзья, валидация, централизованная обработка ошибок, SQL-инициализация H2. |
+| **Канбан-доска** | Java Core, JUnit 5, Gson, HTTP Server | Трекер задач. Иерархия классов (эпики, подзадачи), три стратегии хранения (память/файл/сервер), HTTP-сервер и REST API, сериализация JSON (Gson), модульные тесты JUnit 5. |
+
+---
+
+## 📫 Контакты и статус
+
+- **Telegram:** [@marrymemydeath](https://t.me/marrymemydeath)
+- **Email:** mikhailmargo@yandex.ru
+
+**Статус занятости:** ✅ Открыта к предложениям (рассматриваю стажировки и позиции Java Developer)
+
+📍 Готова к переезду/удаленной работе
+
+---
+
+## ⚡ Немного обо мне вне кода
+
+- Люблю анализировать и систематизировать — в жизни тоже всё разложено по полочкам 😊
+- Увлекаюсь психологией и тем, как люди принимают решения — помогает в проектировании UX и понимании пользователей
+- Усидчивая, внимательная к деталям и не боюсь сложных задач 💪
+
+---
+
+*Спасибо, что дочитали! Буду рада пообщаться и ответить на вопросы.*
